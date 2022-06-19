@@ -1,4 +1,4 @@
-# LSTM Ṭubūʻ Music generator
+# Ṭubūʻ Music LSTM melody generator
 
 This project is inspired by Valerio Velardo works on 'rnn' and time series based music generation (https://github.com/musikalkemist).
 Thanks!
